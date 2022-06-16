@@ -1,0 +1,31 @@
+header{
+    background-color: aqua;
+    color: red;
+    }
+    nav{
+        background-color: blue;
+        color: black;
+    }
+    main{
+        background-color: greenyellow;
+        color: black;
+    }
+    p{
+        background-color: blue;
+        color: red;
+    }
+    h2{
+        color: deeppink;
+    }
+    h1{
+        color: blue;
+    }
+    table{
+        color: maroon;
+    }
+    ol{
+        color: orangered;
+    }
+    img{
+        background-color: yellow;
+    }
